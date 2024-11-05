@@ -36,7 +36,7 @@
 
 ### 🔥 My Contributions
 <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NaufalAnantaSE/NaufalAnantaSE/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SiNopaal/SiNopaal/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
