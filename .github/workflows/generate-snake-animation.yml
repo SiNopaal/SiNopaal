@@ -11,9 +11,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       
+      # Langkah ini membuat folder dist jika belum ada
       - name: Create output directory
         run: mkdir -p dist
-      
+
       - uses: Platane/snk@v2
         with:
           github_user_name: SiNopaal
