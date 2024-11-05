@@ -42,15 +42,6 @@
 
 ---
 
-### 💻 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiNopaal&show_icons=true&theme=radical" width="45%" alt="GitHub Stats" />
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiNopaal&theme=radical" width="45%" alt="GitHub Streak" />
-</p>
-
----
-
 <h3 align="center">Thank you for visiting my profile! Have a great day! 😊</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
