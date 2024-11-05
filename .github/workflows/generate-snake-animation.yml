@@ -2,24 +2,21 @@ name: Generate Snake Animation
 
 on:
   schedule: 
-    - cron: "0 0 * * *"  # Menjadwalkan workflow untuk dijalankan setiap hari pada tengah malam UTC
-  workflow_dispatch:  # Memungkinkan workflow dijalankan secara manual
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
-    runs-on: ubuntu-latest  # Menentukan lingkungan yang digunakan untuk menjalankan job
+    runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2  # Mengambil kode sumber dari repositori
-
-      - name: Generate Snake Animation
-        uses: Platane/snk@v2  # Menggunakan action untuk menghasilkan animasi ular
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v2
         with:
-          github_user_name: SiNopaal  # Ganti dengan username GitHub Anda
-          output_path: dist/snake.svg  # Menentukan lokasi output file animasi
+          github_user_name: SiNopaal
+          output_path: dist/snake.svg
 
       - name: Upload Snake Animation
-        uses: actions/upload-artifact@v2  # Mengupload artefak
+        uses: actions/upload-artifact@v2
         with:
-          name: snake  # Nama artefak
-          path: dist/snake.svg  # Path ke file animasi
+          name: snake
+          path: dist/snake.svg
