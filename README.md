@@ -17,7 +17,8 @@
 - 🌍 I'm from **Indonesia**
 - 🎓 Studying **Software Enginering** at **Telkom University**
 - 💼 Currently learning **Automation, Blockchain, Smart Contracts**
-- 📧 Reach me at: **[naufalmaulana806@gmail.com](mailto:naufalmaulana806@gmail.com)**
+- 📧 Reach me at: [naufalmaulana806@gmail.com](mailto:naufalmaulana806@gmail.com)
+- 📱 Connect with me on Telegram: [@Nflzx](https://t.me/Nflzx)
 
 ---
 
