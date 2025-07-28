@@ -1,7 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://visitor-badge.laobi.icu/badge?page_id=SiNopaal.SiNopaal&color=brightgreen">
   <source media="(prefers-color-scheme: light)" srcset="https://visitor-badge.laobi.icu/badge?page_id=SiNopaal.SiNopaal">
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SiNopaal.SiNopaal" />
 </picture>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SiNopaal.SiNopaal" />
